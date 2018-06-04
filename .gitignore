@@ -7,3 +7,4 @@ data/*
 results/*.html
 results/*.RData
 R/.DS*
+.DS*
